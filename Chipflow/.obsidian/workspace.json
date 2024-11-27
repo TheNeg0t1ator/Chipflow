@@ -13,13 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "c7b2a79d3c678426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Documentation"
+            }
+          },
+          {
+            "id": "7d1a47bcc6bc2029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "142e6f17ec937b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "8a73c9e0bd9aaca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abriviations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abriviations"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -39,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +115,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Abriviations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +158,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abriviations"
             }
           },
           {
@@ -102,10 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/Tools.md",
+                "file": "Abriviations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Abriviations"
             }
           },
           {
@@ -116,7 +185,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/Tools.md"
-              }
+                "file": "Abriviations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Abriviations"
             }
           }
         ],
@@ -147,27 +220,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8e26375424c4a5f",
+  "active": "8a73c9e0bd9aaca3",
   "lastOpenFiles": [
-    "Abriviations.md",
-    "Design flow/1.5 Verification.md",
+    "Tools/Tools.md",
     "Tools",
-    "Design flow/1. Design Flow.md",
     "Design flow/1.9 Validation.md",
-    "Notes.md",
     "Design flow/1.8 Sign-off.md",
     "Design flow/1.7 Physical verification.md",
     "Design flow/1.6 Physical implementation.md",
+    "Design flow/1.5 Verification.md",
     "Design flow/1.4 Detailed Design.md",
     "Design flow/1.3 Sub-block Topology.md",
-    "Design flow/1.1 Define Requirements.md",
-    "Design flow",
     "Design flow/1.2 Functional Architecture.md",
+    "Design flow/1.1 Define Requirements.md",
+    "Design flow/1. Design Flow.md",
+    "Design flow",
     "Welcome.md",
+    "Tools.md",
+    "Abriviations.md",
+    "Notes.md",
     "Documentation.md",
-    "Tools/Tools.md",
     "Chip supply chain.md",
-    "Untitled.canvas",
-    "Presentations.md"
+    "Presentations.md",
+    "Untitled.canvas"
   ]
 }
