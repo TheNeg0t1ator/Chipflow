@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7b2a79d3c678426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d1a47bcc6bc2029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "590fb4faac2d34cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design Flow.md",
+                "file": "Tools/Tools.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Flow.md",
+                "file": "Tools/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Flow.md",
+                "file": "Tools/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Flow.md"
+                "file": "Tools/Tools.md"
               }
             }
           }
@@ -184,13 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "590fb4faac2d34cd",
+  "active": "c8e26375424c4a5f",
   "lastOpenFiles": [
-    "Tools.md",
-    "Documentation.md",
-    "Design Flow.md",
+    "Design flow/1.5 Verification.md",
+    "Tools",
+    "Design flow/1. Design Flow.md",
+    "Design flow/1.9 Validation.md",
     "Notes.md",
+    "Design flow/1.8 Sign-off.md",
+    "Design flow/1.7 Physical verification.md",
+    "Design flow/1.6 Physical implementation.md",
+    "Design flow/1.4 Detailed Design.md",
+    "Design flow/1.3 Sub-block Topology.md",
+    "Design flow/1.1 Define Requirements.md",
+    "Design flow",
+    "Design flow/1.2 Functional Architecture.md",
     "Welcome.md",
+    "Documentation.md",
+    "Tools/Tools.md",
     "Chip supply chain.md",
     "Untitled.canvas",
     "Presentations.md"

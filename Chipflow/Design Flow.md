@@ -1,9 +1,0 @@
-- Define Requirements
-- Functional architecture
-- Sub-block topology
-- Detailed design
-- Verification
-- physical implementation
-- physical Verification
-- sign-off
-- validation
