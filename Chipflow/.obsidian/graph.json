@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "section:(1.)",
+      "query": "path:Tools/Manufacturing  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"Design flow\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15545607
       }
     }
   ],
@@ -26,5 +33,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": false
+  "close": true
 }

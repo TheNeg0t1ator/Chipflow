@@ -1,5 +1,5 @@
-- symbiotic for formal verification
-- Virtuoso Layout Suite
+- [[Symbiotic]] for formal verification
+- [[Virtuoso Layout Suite]]
 - KLayout
 - IHP Open PDK 
 - PDK Master

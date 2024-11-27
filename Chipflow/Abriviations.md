@@ -8,3 +8,4 @@
 - DRC (**Design Rules Check**)
 - LVS  (**Layout Versus Schematic**)
 - PEX  (**Parasitic Extraction**)
+- PPA (Power, Performance Area)
