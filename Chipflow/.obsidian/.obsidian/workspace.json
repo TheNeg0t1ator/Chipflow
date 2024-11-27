@@ -1,98 +1,37 @@
 {
   "main": {
-    "id": "bdd24b4179c67a1e",
+    "id": "673db105a9dc069e",
     "type": "split",
     "children": [
       {
-        "id": "abd0ac7429f19d2f",
+        "id": "89fe67a5239531a2",
         "type": "tabs",
         "children": [
           {
-            "id": "c8e26375424c4a5f",
+            "id": "b9f151b4f363d19d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "c7b2a79d3c678426",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Documentation"
-            }
-          },
-          {
-            "id": "7d1a47bcc6bc2029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "142e6f17ec937b02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "8a73c9e0bd9aaca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abriviations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abriviations"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "626f0da956203d23",
+    "id": "65764593176a52a9",
     "type": "split",
     "children": [
       {
-        "id": "4330b8a107d544f2",
+        "id": "264da94b32533679",
         "type": "tabs",
         "children": [
           {
-            "id": "36b8b64980c96083",
+            "id": "44bcb1813234dc83",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +43,7 @@
             }
           },
           {
-            "id": "0d4a119c221b44eb",
+            "id": "e6d65337b866a307",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -121,7 +60,7 @@
             }
           },
           {
-            "id": "005c356803ae5ba1",
+            "id": "302e54c91a32d4fe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -137,20 +76,19 @@
     "width": 300
   },
   "right": {
-    "id": "109821d2ebe5cefe",
+    "id": "38fdab6ed5401f78",
     "type": "split",
     "children": [
       {
-        "id": "8b7dccde931b23cd",
+        "id": "950e01937f841df7",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e460439137349d",
+            "id": "c3d1df4b5bdddd52",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abriviations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,25 +98,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Abriviations"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "c623c1b2d017ede9",
+            "id": "89b753257983a538",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Abriviations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Abriviations"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5232df53fed928c3",
+            "id": "42e506bf5cef7685",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -191,19 +128,16 @@
             }
           },
           {
-            "id": "6ecae8b8ec138972",
+            "id": "46a9e1f98be0d769",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Abriviations.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Abriviations"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,15 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a73c9e0bd9aaca3",
+  "active": "b9f151b4f363d19d",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Tools.md",
-    "Abriviations.md",
-    "Notes.md",
-    "Documentation.md",
-    "Chip supply chain.md",
-    "Presentations.md",
-    "Untitled.canvas"
+    "Untitled 1",
+    "Untitled"
   ]
 }
