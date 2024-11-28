@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "abd0ac7429f19d2f",
+        "id": "c3f66b6630626c96",
         "type": "tabs",
         "children": [
           {
-            "id": "17ea36f23b972733",
+            "id": "66f438d74316acc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Manufacturing/Symbiotic.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Symbiotic"
-            }
-          },
-          {
-            "id": "e15ab0f28c92b613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/HDL/Chisel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chisel"
-            }
-          },
-          {
-            "id": "588a481de26b3107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/HDL/Spinal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spinal"
-            }
-          },
-          {
-            "id": "b10a8bad604c4a2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/HDL/Amaranth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amaranth"
-            }
-          },
-          {
-            "id": "05eb697df834af89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/HDL/Silice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Silice"
-            }
-          },
-          {
-            "id": "64f16e0e9dac18e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abriviations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Abriviations"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,35 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64f16e0e9dac18e8",
+  "active": "66f438d74316acc3",
   "lastOpenFiles": [
+    "Design flow/1.3 Sub-block Topology.md",
     "Tools/HDL/Cλash (clash).md",
     "Tools/HDL/Silice.md",
     "Tools/HDL/Amaranth.md",
     "Tools/HDL/Spinal.md",
+    "Design flow/1.4 Detailed Design.md",
+    "Design flow/1. Design Flow.md",
+    "Design flow/1.2 Functional Architecture.md",
+    "Design flow/1.1 Define Requirements.md",
+    "Documentation.md",
+    "Tools/HDL/HDL.md",
+    "Abriviations.md",
     "Tools/HDL/Chisel.md",
     "Tools/Manufacturing/Tools.md",
     "Tools/Manufacturing/Symbiotic.md",
     "Tools/Manufacturing/Virtuoso Layout Suite.md",
     "Notes.md",
-    "Documentation.md",
     "Welcome.md",
-    "Design flow/1.4 Detailed Design.md",
     "Tools/Manufacturing",
     "Tools/HDL",
     "Design flow/1.5 Verification.md",
     "Design flow/1.7 Physical verification.md",
     "Presentations/Presentations.md",
     "Presentations",
-    "Abriviations.md",
     "Tools",
     "Design flow/1.9 Validation.md",
     "Design flow/1.8 Sign-off.md",
     "Design flow/1.6 Physical implementation.md",
-    "Design flow/1.3 Sub-block Topology.md",
-    "Design flow/1.2 Functional Architecture.md",
-    "Design flow/1.1 Define Requirements.md",
-    "Design flow/1. Design Flow.md",
     "Design flow",
     "Tools.md",
     "Chip supply chain.md",
